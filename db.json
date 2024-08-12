@@ -1,38 +1,64 @@
-[
-  {
-    "title": "Community Football Gala",
-    "date": "2024-09-01",
-    "description": "Join us for an exciting day of football matches and community activities.",
-    "location": "City Sports Complex, Downtown"
-  },
-  {
-    "title": "Youth Football Clinic",
-    "date": "2024-09-15",
-    "description": "A clinic for young players to learn from professional coaches.",
-    "location": "Greenfield High School Stadium"
-  },
-  {
-    "title": "Charity Match",
-    "date": "2024-10-05",
-    "description": "A special match to raise funds for local charities.",
-    "location": "River Park Football Field"
-  },
-  {
-    "title": "Annual Coaches Conference",
-    "date": "2024-10-20",
-    "description": "A conference for football coaches to discuss strategies and share insights.",
-    "location": "Grand Hotel Conference Center, Room A"
-  },
-  {
-    "title": "Local Talent Showcase",
-    "date": "2024-11-10",
-    "description": "Showcase of local football talent with matches and highlights.",
-    "location": "Sunset Park Football Arena"
-  },
-  {
-    "title": "Winter Football Festival",
-    "date": "2024-12-15",
-    "description": "Celebrate the winter season with friendly football matches and festive activities.",
-    "location": "Northside Community Center"
-  }
-]
+{
+  "event": [
+    {
+      "title": "Community Football Gala",
+      "date": "2024-09-01",
+      "description": "Join us for an exciting day of football matches and community activities.",
+      "location": "City Sports Complex, Downtown"
+    },
+    {
+      "title": "Youth Football Clinic",
+      "date": "2024-09-15",
+      "description": "A clinic for young players to learn from professional coaches.",
+      "location": "Greenfield High School Stadium"
+    },
+    {
+      "title": "Charity Match",
+      "date": "2024-10-05",
+      "description": "A special match to raise funds for local charities.",
+      "location": "River Park Football Field"
+    },
+    {
+      "title": "Annual Coaches Conference",
+      "date": "2024-10-20",
+      "description": "A conference for football coaches to discuss strategies and share insights.",
+      "location": "Grand Hotel Conference Center"
+    },
+    {
+      "title": "Local Talent Showcase",
+      "date": "2024-11-10",
+      "description": "Showcase of local football talent with matches and highlights.",
+      "location": "Sunset Park Football Arena"
+    },
+    {
+      "title": "Winter Football Festival",
+      "date": "2024-12-15",
+      "description": "Celebrate the winter season with friendly football matches and festive activities.",
+      "location": "Northside Community Center"
+    },
+    {
+      "title": "Summer Youth Tournament",
+      "date": "2024-07-22",
+      "description": "A fun tournament for youth teams to compete and enjoy summer football.",
+      "location": "Lakeside Sports Field"
+    },
+    {
+      "title": "Football Skills Challenge",
+      "date": "2024-08-30",
+      "description": "A challenge event focusing on individual football skills and drills.",
+      "location": "Central Park Training Grounds"
+    },
+    {
+      "title": "Legends of Football Exhibition",
+      "date": "2024-11-25",
+      "description": "An exhibition match featuring football legends and former stars.",
+      "location": "Historic Stadium"
+    },
+    {
+      "title": "New Year Football Bash",
+      "date": "2024-12-31",
+      "description": "Ring in the New Year with a celebratory football match and festivities.",
+      "location": "Victory Sports Complex"
+    }
+  ]
+}
